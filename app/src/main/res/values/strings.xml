@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hamsterNews</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_auth">AuthActivity</string>
+</resources>
